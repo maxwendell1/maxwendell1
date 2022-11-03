@@ -3,7 +3,7 @@
 - Atualmente estudo linguagem JAVA, mas tenho conhecimentos também em JavaScript, C++, HTML, CSS e Framework Bootstrap 5 
 - Pretendo crescer profissionalmente, sempre absorvendo novos conhecimentos e colaborando para que toda euqipe da qual eu faça parte creça junto comigo, e entregue resultados cada vez melhores
 - Entre em contato comigo através das minhas redes sociais:
-- LinkedIn: linkedin.com/in/max-wendell-garcia-santana-a8bb03116
+- LinkedIn: https://www.linkedin.com/in/max-wendell-tech/
 - Instagram: https://www.instagram.com/_maxwgs/
 - Facebook: https://www.facebook.com/max.wendell.167
 
